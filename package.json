@@ -1,0 +1,11 @@
+name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "Code.py",
+  "scripts": {
+    "start": "python Code.py"
+  },
+  "dependencies": {
+    "discord.py": "11.1.0",
+    "request": "3.6.4"
+  }
